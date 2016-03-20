@@ -1,8 +1,3 @@
-# bob_maxmsp
-A maxmsp port of Miller Puckette's newly created Moog resonant filter object bob~.
-
-
-From Miller's original README.txt file:
 The bob~ object.  BSD licensed; Copyright notice is in bob~ source code.
 
 Imitates a Moog resonant filter by Runge-Kutte numerical integration of

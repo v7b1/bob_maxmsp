@@ -1,0 +1,9 @@
+# xcode noise
+*.pbxuser
+*.perspective 
+*.perspectivev3
+
+*.mxo
+*.zip
+bob~pd
+
